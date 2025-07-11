@@ -1,0 +1,22 @@
+# Global
+.env
+.DS_Store
+*.log
+
+# Backend
+/backend/node_modules/
+/backend/.env
+/backend/dist/
+/backend/package-lock.json
+
+# Frontend - Admin
+/frontend/admin/node_modules/
+/frontend/admin/.env
+/frontend/admin/build/
+/frontend/admin/package-lock.json
+
+# Frontend - User
+/frontend/user/node_modules/
+/frontend/user/.env
+/frontend/user/build/
+/frontend/user/package-lock.json
