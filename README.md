@@ -24,17 +24,18 @@ FoodieExpress/
 ## ✨ Features
 
 ### 🧑 User App
-- 🔐 Authentication (Login/Signup)
-- 🛒 Add to Cart & Checkout
-- 📦 Order placement and history
-- 🧭 Order status updates (e.g., Preparing → Out for delivery)
-- 📱 Mobile-first responsive UI
+- 🔐 Authentication (Login / Signup) (Done)
+- 🙍‍♂️ Profile Upload (currently in process)
+- 🛒 Add to Cart & Checkout (Done)
+- 💳 Payment Integration with Stripe (Done)
+- 📦 Order Placement & History (Done)
+- 🧭 Order Status Updates (e.g., 🍳 Preparing → 🚚 Out for Delivery → 📬 Delivered) (Done)
 
 ### 👨‍🍳 Admin Panel
-- 📋 Manage orders and users
-- 🍽 Add, edit, remove menu items
+- 📋 Manage orders and users (future)
+- 🍽 Add, edit, remove menu items (future)
 - 📊 View order stats (future)
-- 🔐 Role-based access
+- 🔐 Role-based access (future) 
 
 ### 🛠 Backend
 - RESTful APIs with Node.js & Express
